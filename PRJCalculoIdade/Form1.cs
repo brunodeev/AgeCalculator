@@ -19,9 +19,26 @@ namespace PRJCalculoIdade
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Form2 destino = new Form2();
-            destino.Show();
+            if (txtSenha.Text == "1234")
+            {
+                this.Hide();
+                Form2 destino = new Form2();
+                destino.Show();
+            }
+            else
+            {
+                MessageBox.Show("Senha Inválida");
+            }
+        }
+
+        private void txtSenha_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
