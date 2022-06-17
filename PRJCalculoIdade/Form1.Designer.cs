@@ -88,6 +88,7 @@
             this.MaximumSize = new System.Drawing.Size(454, 562);
             this.MinimumSize = new System.Drawing.Size(454, 562);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Idade";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -10,3 +10,15 @@ C:\Users\bcgme\source\repos\PRJCalculoIdade\PRJCalculoIdade\obj\Debug\PRJCalculo
 C:\Users\bcgme\source\repos\PRJCalculoIdade\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.csproj.CoreCompileInputs.cache
 C:\Users\bcgme\source\repos\PRJCalculoIdade\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.exe
 C:\Users\bcgme\source\repos\PRJCalculoIdade\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.pdb
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\bin\Debug\PRJCalculoIdade.exe.config
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\bin\Debug\PRJCalculoIdade.exe
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\bin\Debug\PRJCalculoIdade.pdb
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.csproj.AssemblyReference.cache
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.Form1.resources
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.Form2.resources
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.Properties.Resources.resources
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.csproj.GenerateResource.cache
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.csproj.CoreCompileInputs.cache
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.exe
+C:\Users\bcgme\source\repos\AgeCalculator\PRJCalculoIdade\obj\Debug\PRJCalculoIdade.pdb
