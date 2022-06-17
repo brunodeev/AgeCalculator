@@ -45,7 +45,6 @@
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(213, 24);
             this.txtEmail.TabIndex = 0;
-            this.txtEmail.UseWaitCursor = true;
             // 
             // txtSenha
             // 
