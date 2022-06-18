@@ -36,19 +36,24 @@ namespace PRJCalculoIdade
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string nome;
+            string nome, ano;
             nome = txtNome.Text;
-            double ano = double.Parse(cmbAno.Text);
+            ano = txtAno.Text;
 
-            if (nome != null || cmbAno.Text != null)
+            if (nome != "" && ano != "")
             {
-                double result = 2022 - ano;
+                double sub = double.Parse(ano);
+                double result = 2022 - sub;
 
                 MessageBox.Show($"{nome}, sua idade é {result}, levando em conta que você já tenha feito aniversário esse ano!");
             }
-            else
+            else if (ano == "" && nome != "")
             {
                 MessageBox.Show($"Ah, {nome}, faltam informações para serem completadas!");
+            }
+            else
+            {
+                MessageBox.Show($"Poxa, eu não sei seu nome :´(");
             }
         }
 
@@ -58,6 +63,27 @@ namespace PRJCalculoIdade
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            txtNome.Clear();
+            txtAno.Clear();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtNome_TextChanged(object sender, EventArgs e)
         {
 
         }

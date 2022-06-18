@@ -19,7 +19,7 @@ namespace PRJCalculoIdade
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (txtSenha.Text == "1234")
+            if (txtSenha.Text == "1234" && txtEmail.Text != "")
             {
                 this.Hide();
                 Form2 destino = new Form2();
@@ -27,7 +27,7 @@ namespace PRJCalculoIdade
             }
             else
             {
-                MessageBox.Show("Senha Inválida");
+                MessageBox.Show("Senha ou Email Inválidos");
             }
         }
 
